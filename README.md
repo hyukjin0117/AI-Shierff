@@ -30,14 +30,15 @@ git을 실행한 후 git --version명령어를 통하여 git이 잘 설치되었
 
 git config --global core.autocrlf true
 
+<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/8f7d0296-6da7-433c-b8f5-3cab227d915c" />
+
+VScode에서 open folder로 AI sheriff로 들어가기
+
+
 
 
 <img width="1191" height="790" alt="img2" src="https://github.com/user-attachments/assets/7bedb302-311d-4e46-88d8-9ae7d6db7f5d" />
 
-
-VScode에서 open folder로 AI sheriff로 들어가기
-
-<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/8f7d0296-6da7-433c-b8f5-3cab227d915c" />
 
 
 
