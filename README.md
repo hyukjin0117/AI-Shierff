@@ -1,4 +1,4 @@
-작업 하기전 준비
+<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/e9f18221-4562-4031-af2d-c90ec380f825" />작업 하기전 준비
 
 1.git다운로드
 
@@ -35,6 +35,9 @@ git config --global core.autocrlf true
 <img width="1191" height="790" alt="img2" src="https://github.com/user-attachments/assets/7bedb302-311d-4e46-88d8-9ae7d6db7f5d" />
 
 
+VScode에서 open folder로 AI sheriff로 들어가기
+
+<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/8f7d0296-6da7-433c-b8f5-3cab227d915c" />
 
 
 
