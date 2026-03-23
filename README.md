@@ -77,6 +77,8 @@ git config --global init.defaultBranch main
 위 명령어를 통해 기본브랜치를 변경
 
 
+cd AI-Shierff
+
 
 git switch -c feature/이름_작업내용
 
