@@ -15,6 +15,7 @@ git을 실행한 후 git --version명령어를 통하여 git이 잘 설치되었
 
 git config --global core.autocrlf ture
 
-<img width="1911" height="1034" alt="image" src="https://github.com/user-attachments/assets/36ddf2bc-a790-47db-9f4a-4cf0bb5af42b" />
+<img width="1191" height="790" alt="img2" src="https://github.com/user-attachments/assets/7bedb302-311d-4e46-88d8-9ae7d6db7f5d" />
+
 
 VScode를 실행한후 Select gitBash를 Default Profile로 설정
