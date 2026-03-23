@@ -17,6 +17,8 @@ git push origin <자신의 브랜치 명>
 4.만약에 오류가 난다면 아래 명령어를 입력
 git pull origin main
 
+vi 탈출은 :q
+
 5.https://github.com/hyukjin0117/AI-Shierff
 
 
