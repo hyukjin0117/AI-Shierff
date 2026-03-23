@@ -52,10 +52,13 @@ VScode를 실행한후 Select gitBash를 Default Profile로 설정
 
 git bash에 들어가 사용자명과 사용자 이메일을 설정
 
+git config --global user.name 이름
+
+git config --global user.email 이메일
+
 <img width="1234" height="215" alt="image" src="https://github.com/user-attachments/assets/7c07ee9d-a903-4ac2-9793-952b5dfcc9c6" />
 
-git config --global user.name 이름
-git config --global user.email 이메일
+
 
 github와 연결을 위해 아래 명령어를 실
 
