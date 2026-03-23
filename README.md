@@ -19,3 +19,27 @@ git config --global core.autocrlf ture
 
 
 VScode를 실행한후 Select gitBash를 Default Profile로 설정
+
+<img width="580" height="365" alt="image" src="https://github.com/user-attachments/assets/4a169673-673d-49c2-b184-50032c85074e" />
+
+git bash에 들어가 사용자명과 사용자 이메일을 설정
+<img width="1234" height="215" alt="image" src="https://github.com/user-attachments/assets/7c07ee9d-a903-4ac2-9793-952b5dfcc9c6" />
+
+VScode로 돌아가 Termainal을 실행하여 git init을 실행
+
+<img width="1120" height="637" alt="image" src="https://github.com/user-attachments/assets/55caa6d0-3d08-44cb-9a90-f82364223b1a" />
+
+폴더로 돌아가 숨긴 항목표시를 활성화 하여 .git이 생성된 걸 확인
+
+git config --global init.defaultBranch main
+
+위 명령어를 통해 기본브랜치를 변경
+
+
+
+
+
+
+
+
+
