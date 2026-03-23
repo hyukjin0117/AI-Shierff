@@ -1,0 +1,20 @@
+기본적인 작업 방법
+
+1.아래 명령어를 통하여 최신화
+
+git switch main/git pull origin main /git switch -c feature/<작업 명>
+
+2.작업을 완료하면 아래 명령어를 통하여 github에 보내기
+
+git add . 을 통하여 변경사항을 전부 담기
+
+git commit -m "작업결과"
+
+3. 모든 작업이 끝나면 다음 명령어로 push한다.
+
+git push origin <자신의 브랜치 명>
+
+4.https://github.com/hyukjin0117/AI-Shierff
+
+
+
