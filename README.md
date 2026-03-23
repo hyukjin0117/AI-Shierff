@@ -12,4 +12,5 @@ git을 실행한 후 git --version명령어를 통하여 git이 잘 설치되었
 <img width="285" height="45" alt="image" src="https://github.com/user-attachments/assets/b7fc0751-4529-4a00-aa70-af23d4a2520b" />
 
 윈도우와 맥에서의 엔터방식 차이를 해결하기 위해 아래 명령어를 실행
+
 git config --global core.autocrlf ture
