@@ -74,7 +74,7 @@ git config --global init.defaultBranch main
 
 
 
-it switch -c feature/이름_작업내용
+git switch -c feature/이름_작업내용
 
 
 
