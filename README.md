@@ -16,7 +16,7 @@ https://git-scm.com/install/windows
 
 
 
-git을 실행한 후 git --version명령어를 통하여 git이 잘 설치되었는지 확인
+git bash를 실행한 후 git --version명령어를 통하여 git이 잘 설치되었는지 확인
 
 
 
