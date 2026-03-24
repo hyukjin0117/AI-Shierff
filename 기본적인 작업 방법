@@ -2,7 +2,7 @@
 
 1.아래 명령어를 통하여 최신화
 
-git switch main/git pull origin main /git switch -c feature/<작업 명>
+git switch main                  git pull origin main                      git switch -c feature/<작업 명>
 
 2.작업을 완료하면 아래 명령어를 통하여 github에 보내기
 
