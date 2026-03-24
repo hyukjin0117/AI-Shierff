@@ -14,7 +14,7 @@ git commit -m "작업결과"
 
 3. 모든 작업이 끝나면 다음 명령어로 push한다.
 
-git push origin <자신의 브랜치 명>
+git push origin featrue/작업명
 
 4.만약에 오류가 난다면 아래 명령어를 입력
 git pull origin main
