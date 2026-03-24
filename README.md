@@ -1,4 +1,4 @@
-<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/e9f18221-4562-4031-af2d-c90ec380f825" />작업 하기전 준비
+작업 하기전 준비
 
 1.git다운로드
 
