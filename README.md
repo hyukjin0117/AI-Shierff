@@ -32,6 +32,8 @@ git config --global core.autocrlf true
 
 <img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/8f7d0296-6da7-433c-b8f5-3cab227d915c" />
 
+AI sheriff폴더 1개 만들기
+
 VScode에서 open folder로 AI sheriff로 들어가기
 
 
