@@ -1,1 +1,5 @@
 print("바냐냐")
+print("aa")
+print("aa")
+print("aa")
+print("aa")
