@@ -6,6 +6,8 @@ git switch main                  git pull origin main                      git s
 
 2.작업을 완료하면 아래 명령어를 통하여 github에 보내기
 
+git status
+
 git add . 을 통하여 변경사항을 전부 담기
 
 git commit -m "작업결과"
